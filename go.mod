@@ -1,3 +1,3 @@
-module github.com/stevenstank/learning-go
+module main
 
 go 1.26.1
